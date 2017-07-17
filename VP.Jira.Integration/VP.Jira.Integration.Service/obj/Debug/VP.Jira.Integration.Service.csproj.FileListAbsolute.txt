@@ -1,0 +1,5 @@
+C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\VP.Jira.Integration.Service.dll
+C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\VP.Jira.Integration.Service.pdb
+C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.csprojResolveAssemblyReference.cache
+C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.dll
+C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.pdb
