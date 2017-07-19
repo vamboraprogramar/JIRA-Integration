@@ -3,3 +3,15 @@ C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.In
 C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.csprojResolveAssemblyReference.cache
 C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.dll
 C:\Users\danruziska\Source\Repos\JIRA-Integration\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.pdb
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\VP.Jira.Integration.Service.dll
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\VP.Jira.Integration.Service.pdb
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.csprojResolveAssemblyReference.cache
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.dll
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\obj\Debug\VP.Jira.Integration.Service.pdb
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\Atlassian.Jira.dll
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\RestSharp.dll
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\Atlassian.Jira.pdb
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\Atlassian.Jira.xml
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danruziska\Source\Repos\JIRA\VP.Jira.Integration\VP.Jira.Integration.Service\bin\Debug\RestSharp.xml
